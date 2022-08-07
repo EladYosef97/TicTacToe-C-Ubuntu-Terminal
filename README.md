@@ -1,4 +1,4 @@
-# TicTacToe-C-ubuntu---Terminal-
+# TicTacToe-C-Ubuntu-Terminal
 
 server.c
 To compile server.c: gcc -o server server.c
